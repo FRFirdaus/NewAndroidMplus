@@ -1,0 +1,25 @@
+sebelum masuk bagaimana cara mengoperasikannya, pertama aplikasi ini
+dibuat menggunakan database SQLite dimana database lokal terdapat pada
+setiap handphone user, sehingga lebih memudahkan user dalam mengakses data
+
+berbeda dengan aplikasi yang sebelumnya saya kirim yang membutuhkan berbagai
+macam konfigurasi agar bisa terkoneksi dengan server yang ada di 1 server yaitu
+berupa PC dengan menggunakan PHP sebagai jembatan antar db dengan aplikasi,
+untuk mengakses data.
+
+cara pemakaian : 
+1. buka aplikasi maka muncul splashscreen, tunggu beberapa saat
+2. akan muncul list dari semua kontak yang telah kita simpan(untuk awal pemakaian
+akan kosong karena db tidak diakses melalui server tapi pada lokal hp masing2
+3. untuk menambahkan kontak, pencet button "+" pada pojok kanan bawah halaman.
+4. setelah itu isikan data-data nama, nohp, email, serta tanggal lahir lalu pencet
+button submit untuk menambahkan data kontak.
+5. setelah data kontak dibuat, data yang akan ditampilkan hanya nama dan nomor HP, tapi 
+untuk melihat keseluruhan data bisa dengan cara kita pencet salah satu item pada listview dengan cukup lama
+sekitar 1-2 detik maka akan muncul pilihan lihat/edit kontak dan delete kontak
+6. jika ingin melihat / mengedit kontak maka pilihlah "lihat/edit kontak" jika ingin mendelete maka pilih 
+"delete Kontak" 
+
+
+
+selesai :)
